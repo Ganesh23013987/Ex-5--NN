@@ -107,7 +107,7 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 <H3>OUTPUT:</H3>
 
-<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/943a2045-4054-4532-93c1-175d02ccf656" />
+<img width="1122" height="652" alt="image" src="https://github.com/user-attachments/assets/f50e6a2a-55da-4b68-ba6c-b0e60e51795f" />
 
 
 
