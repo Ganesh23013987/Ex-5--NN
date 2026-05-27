@@ -1,7 +1,7 @@
 <H3>NAME: GANESH D</H3>
 <H3>REGISTER NO: 212223240035</H3>
 <H3>EX. NO.5</H3>
-<H3>DATE:</H3>
+<H3>DATE: 20/05/2026</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
